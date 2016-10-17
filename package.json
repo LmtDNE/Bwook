@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "bwook",
   "version": "1.0.0",
-  "description": "A tinder like app built with React and Redux",
+  "description": "A Library of Books",
   "main": "index.js",
   "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
   "scripts": {

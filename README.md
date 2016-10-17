@@ -1,5 +1,5 @@
-# Timber
-A tinder like app built with React and Redux
+# Bwook
+A Library of Books
 ###Getting Started###
 
  Install dependencies, then start the gulp process with the following:
